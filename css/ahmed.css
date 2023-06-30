@@ -1248,6 +1248,10 @@ ul {
     width: 100%;
   }
 }
+.events .info .time .unit .Days {
+  position: relative;
+  left: -10px;
+}
 /* End Events */
 /* Start Pricing */
 .pricing {
